@@ -7,4 +7,4 @@ For example, when reproducing Fig. 4, all the files in Fig. 4 (whether they are 
 The code has been tested with MATLAB R2020b.
 ## License
 
-This project is released under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
