@@ -19,7 +19,8 @@ To reproduce a result:
 3. Keep the contents of that `fig` folder unchanged. Do not move files from one `fig` folder to another.
 4. Open MATLAB and set the corresponding `fig` folder as the current working directory.
 5. Run the `.m` file whose filename ends with `_main` or `_draw`.
-6. The program will automatically use the input data provided in the same folder and perform the corresponding calculations and/or generate the visualization.
+6. The program will automatically use the input data provided in the same folder to perform the corresponding calculations and/or generate the visualizations, reproducing the results shown in the corresponding figure of the paper.
+
 
 For example, to reproduce Fig. 4, use the programs and data contained in the `fig4` folder and run the corresponding `_main.m` or `_draw.m` file from that folder. The files in `fig4` are intended for Fig. 4 and should not be used as input files for programs in other `fig` folders.
 
